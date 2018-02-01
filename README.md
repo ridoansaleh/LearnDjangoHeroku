@@ -1,10 +1,10 @@
-# Learn Django and Heroku
+# Belajar Django & Heroku
 
-### Step by step to deploy Django app to Heroku
+### Deploy Aplikasi Django ke Heroku
 
-1. Coming soon ..
+1. Segera ..
 
-References :
+Referensi :
 
 1. https://tutorial-extensions.djangogirls.org/en/heroku/
 
