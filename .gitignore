@@ -3,4 +3,4 @@ db.sqlite3
 env
 __pycache__
 local_settings.py
-.vscode
+.vscode/
