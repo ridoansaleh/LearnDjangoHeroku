@@ -1,5 +1,3 @@
-# Belajar Django & Heroku
-
 ## Deploy Aplikasi Django ke Heroku
 
 1. Segera ..
